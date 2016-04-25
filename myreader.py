@@ -1,4 +1,4 @@
-#!/urs/bin/python
+#!/usr/bin/python
 
 import os
 import shutil
